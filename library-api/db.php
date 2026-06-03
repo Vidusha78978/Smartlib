@@ -1,7 +1,7 @@
 <?php
 class Database {
     // Database credentials
-    private $host = "localhost";
+    private $host = "127.0.0.1";
     private $db_name = "library-tech"; 
     private $username = "geeth";     
     private $password = "2024@pearl";         
