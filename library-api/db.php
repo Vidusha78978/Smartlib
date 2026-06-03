@@ -2,9 +2,9 @@
 class Database {
     // Database credentials
     private $host = "localhost";
-    private $db_name = "library_db"; 
-    private $username = "root";     
-    private $password = "";         
+    private $db_name = "library-tech"; 
+    private $username = "geeth";     
+    private $password = "2024@pearl";         
 
     public $conn;
 
